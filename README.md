@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and comp
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Kuku Social
+- 🔭 I’m currently working on Kuku Social.
 - 🌱 I’m currently learning AWS and Microservices.
 - 👯 I’m looking to collaborate in Java projects.
 - 🤔 I’m looking for help with career advice.
