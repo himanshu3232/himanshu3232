@@ -36,23 +36,38 @@ Welcome to my GitHub profile! I'm passionate about software development and comp
 
 ## 📚 My Projects
 
-### Project 1: [Project Name](https://github.com/yourusername/projectname)
+### Project 1: [Kuku Social](https://github.com/himanshu3232/Kuku-Social)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname&theme=radical)](https://github.com/yourusername/projectname)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshu3232&repo=Kuku-Social&theme=radical)](https://github.com/himanshu3232/Kuku-Social)
 
-Brief description of the project, what technologies were used, and what it does.
+◦ A social media platform allowing users to post texts and photos and videos on the platform.
 
-### Project 2: [Project Name](https://github.com/yourusername/projectname)
+◦ The platform allows users to interact with the posts of other users. Adding features like likes and comments.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname&theme=radical)](https://github.com/yourusername/projectname)
+◦ Utilized redux-toolkit for state management. An improvement over limited knowledge till context api.
 
-Brief description of the project, what technologies were used, and what it does.
+◦ Utilized Tailwind CSS and Material UI to enhance the UI. Implemented React Router Dom for navigation.
 
-### Project 3: [Project Name](https://github.com/yourusername/projectname)
+◦ Integrated Razor Pay within the application for premium subscription.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname&theme=radical)](https://github.com/yourusername/projectname)
+◦ Created Rest APIs using Spring boot and handled transaction management with the entities using Hibernate
 
-Brief description of the project, what technologies were used, and what it does.
+### Project 2: [Task Pulse](https://github.com/himanshu3232/Task-Pulse)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshu3232&repo=Task-Pulse&theme=radical)](https://github.com/himanshu3232/Task-Pulse)
+
+◦ Developed a responsive full-stack project. The application serves as a platform for storing and managing memos or
+tasks in the centralized PostgreSQL database.
+
+◦ The application allows users to perform CRUD operations on the Task entity allowing for an improved UX.
+
+◦ Utilized redux-toolkit for state management, showcasing expertise in managing complex application.
+
+◦ Implemented advanced debugging functionalities using Aspect-Oriented Programming (AOP) techniques
+within the Spring Boot framework.
+
+◦ Upgraded to Hibernate in later commits for better abstraction of JDBC boilerplate code and for better
+transaction management
 
 
 ## 📫 How to reach me
